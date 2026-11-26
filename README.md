@@ -1,2 +1,2 @@
 # ai-generative-workflows
-Personal Python experiments using generative AI APIs for image generation, editing and video generation.
+Personal AI media experiments using Python and generative APIs, developed with AI coding assistance.
